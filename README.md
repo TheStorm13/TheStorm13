@@ -2,7 +2,7 @@
 
 ## 🔍 About Me  
 - 💻 I am a Java developer
-- 🎓 I am a 3rd-year student majoring in Applied Mathematics and Computer Science at Samara University.
+- 🎓 I am a 4th-year student majoring in Applied Mathematics and Computer Science at Samara University.
 
 ## 🛠️ Skills & Technologies
 
